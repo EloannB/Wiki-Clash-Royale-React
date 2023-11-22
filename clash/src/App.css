@@ -57,13 +57,13 @@
   --charizardfront: url(https://assets.codepen.io/13471/charizard-gx.webp);
   --pika1: #54a29e;
   --pika2: #a79d66;
-  --pikafront: url(https://assets.codepen.io/13471/pikachu-gx.webp);
+  --pikafront: url(https://www.pngall.com/wp-content/uploads/11/Clash-Royale-PNG-HD-Image.png);
   --eevee1: #efb2fb;
   --eevee2: #acc6f8;
-  --eeveefront: url(https://www.jeumobi.com/wp-content/uploads/2022/08/guide-clash-royale-mousquetaire-visuel.jpg);
+  --eeveefront: url(https://i.pinimg.com/originals/ce/6d/ce/ce6dceec40d80ca662dea2a12b0e1efc.jpg);
   --mewtwo1: #efb2fb;
   --mewtwo2: #acc6f8;
-  --mewtwofront: url(https://static.wikia.nocookie.net/clashroyale/images/4/49/WizardCard.png/revision/latest?cb=20200315014024&path-prefix=fr);
+  --mewtwofront: url(https://i.pinimg.com/474x/f4/0d/e4/f40de4cf4b619e505c44ad3afadec584.jpg);
 }
 
 .card {
@@ -508,4 +508,8 @@ main {
   to {
     transform: scale3d(1, 1, 1);
   }
+}
+
+main {
+  background-color: #343a40;
 }
